@@ -1,0 +1,6 @@
+{
+  "name": "CartoForge - Terrain & Island Generator",
+  "description": "Procedural 2D terrain island generator with customizable biomes, cities, rivers, and resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
